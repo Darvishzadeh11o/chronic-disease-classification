@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Editor
+.vscode/
+.history/
+
+# Models / artifacts
+*.pkl
+*.joblib
+
+# Data (keep big files out of git)
+data/
+*.csv
+*.zip
